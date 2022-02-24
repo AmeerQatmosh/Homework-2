@@ -1,0 +1,15 @@
+C:\Users\ameer\source\repos\Year List\Year List\Year List\bin\Debug\netstandard2.0\Year List.deps.json
+C:\Users\ameer\source\repos\Year List\Year List\Year List\bin\Debug\netstandard2.0\Year List.dll
+C:\Users\ameer\source\repos\Year List\Year List\Year List\bin\Debug\netstandard2.0\Year List.pdb
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.csproj.AssemblyReference.cache
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.AssemblyInfoInputs.cache
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.AssemblyInfo.cs
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.csproj.CoreCompileInputs.cache
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.dll
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\refint\Year List.dll
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\Year List.pdb
+C:\Users\ameer\source\repos\Year List\Year List\Year List\obj\Debug\netstandard2.0\ref\Year List.dll
